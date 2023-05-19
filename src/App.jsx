@@ -11,15 +11,15 @@ const App = () => {
 
   const [state, setState] = useState({
 
-    name:  "Shahriar",
-    dept : "ECE",
-    batch: "2016",
-    univ : "KUET",
-    session : "2020-21",
-    address : "Khulna",
-    dist : "Khulna",
-    po : "1100",
-    thana : "Teligati"
+    name:  "",
+    dept : "",
+    batch: "",
+    univ : "",
+    session : "",
+    address : "",
+    dist : "",
+    po : "",
+    thana : ""
 
   });
 
