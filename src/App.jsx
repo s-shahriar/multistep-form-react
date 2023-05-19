@@ -192,7 +192,7 @@ const App = () => {
             <div className="mt-6 gap-4 justify-center flex items-center">
 
                 <button onClick={prev} className="w-1/3 rounded-md border px-3 py-2 bg-slate-600 text-white">Back</button>
-                <button onClick={next} className="w-1/3 rounded-md border px-3 py-2 bg-slate-600 text-white">Proceed</button>
+                <button onClick={next} className="w-1/3 rounded-md border px-3 py-2 bg-slate-600 text-white">Next</button>
 
             </div>
           </div>
