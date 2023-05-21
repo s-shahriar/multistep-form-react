@@ -112,7 +112,7 @@ const App = () => {
 
       <ToastContainer />
     
-        <div className="card w-2/3 rounded-md shadow-md bg-white p-5 md:w-2/3 lg:w-3/6">
+        <div className="card w-screen rounded-md shadow-md bg-white p-5 md:w-2/3 lg:w-3/6">
 
         <div className='flex items-center justify-center'>
 
